@@ -71,4 +71,4 @@ Project inspired by tutorials from [The iScale-Swati mam]((https://www.youtube.c
 
 ## 👤 Author
 
-Mukesh Yadav / https://github.com/ymukesh012
+Mukesh Yadav / https://github.com/ymukesh012/Netflix-Data-Analysis
